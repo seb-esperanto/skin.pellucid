@@ -23,7 +23,7 @@ msgstr "Un habillage pour Kodi par theDeadman"
 msgctxt "Addon Description"
 msgid ""
 "Pellucid is a lightweight, clean and simple Kodi experience designed for maximum usability and minimum fuss."
-msgstr "Avec Pellucid, Kodi est propre et simple : fonctionnalités maximales, complexité minimale."
+msgstr "Avec Pellucid, Kodi est léger, propre et simple : fonctionnalités maximales, complexité minimale."
 
 msgctxt "#31000"
 msgid "Videos"
@@ -43,7 +43,7 @@ msgstr "Extensions du logiciel"
 
 msgctxt "#31004"
 msgid "Power"
-msgstr "Marche"
+msgstr "Arrêt"
 
 msgctxt "#31005"
 msgid "Spotlight"
@@ -455,7 +455,7 @@ msgstr "Utilisateurs"
 
 msgctxt "#31107"
 msgid "Current profile"
-msgstr "Profil Actuel"
+msgstr "Profil actuel"
 
 msgctxt "#31108"
 msgid "About this Kodi Installation"
@@ -567,7 +567,7 @@ msgstr "Recherche manuelle"
 
 msgctxt "#31135"
 msgid "Eject Disc"
-msgstr "Éjecter le Disque"
+msgstr "Éjecter le disque"
 
 msgctxt "#31136"
 msgid "Now Playing"
@@ -575,7 +575,7 @@ msgstr "En lecture"
 
 msgctxt "#31137"
 msgid "Content Scraper:"
-msgstr "Contenu du Scraper"
+msgstr "Contenu du scraper :"
 
 msgctxt "#31138"
 msgid "Stop video playing on return to menu"
@@ -595,7 +595,7 @@ msgstr "Années en activité"
 
 msgctxt "#31142"
 msgid "Prioritise exit over shutdown in power menu"
-msgstr "Prioriser quitter à éteindre dans le menu d'alimentation"
+msgstr "Prioriser Quitter à Éteindre dans le menu Arrêt
 
 msgctxt "#31143"
 msgid "Remaining"
@@ -727,7 +727,7 @@ msgstr "Modifier le menu de la section image"
 
 msgctxt "#31175"
 msgid "Set Latest Content"
-msgstr "Organiser derniers ajouts"
+msgstr "Organiser les ajouts récents"
 
 msgctxt "#31176"
 msgid "New Movies"
