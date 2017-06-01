@@ -143,7 +143,7 @@ msgstr "Ressentie"
 
 msgctxt "#31029"
 msgid "Current playlist"
-msgstr "Playlist Actuelle"
+msgstr "Playlist actuelle"
 
 msgctxt "#31030"
 msgid "Humidity"
@@ -647,7 +647,7 @@ msgstr "Rechercher des sous-titres"
 
 msgctxt "#31155"
 msgid "Go to Artist"
-msgstr "Aller àl'artiste"
+msgstr "Aller à l'artiste"
 
 msgctxt "#31156"
 msgid "Games"
@@ -659,7 +659,7 @@ msgstr "Ecran d'Accueil: Cacher les Jeux "
 
 msgctxt "#31158"
 msgid "Go to Album"
-msgstr "Aller à l'Album"
+msgstr "Aller à l'album"
 
 msgctxt "#31159"
 msgid "Unknown"
